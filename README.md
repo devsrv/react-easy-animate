@@ -8,19 +8,19 @@
 
 ### Check the interactive example: <a href="#">http://devsrv.github.io/react-easy-animate/</a>
 
-## Features
+## 📋 Features
 
 - **Control entry & exit animation** - css animation class to use when component appearing & disappearing
 - **Animation delay & duration** - manage animation delay and duration for both entry & exit animations
 - **Hook into animationEnd events** – access to all animation end events that you can act to
 
-## Installation
+## 📥 Installation
 
 Using [npm](https://www.npmjs.com/package/react-easy-animate):
 
     $ npm i react-easy-animate --save
     
-## Usage
+## 🧪 Usage
 
 ### Basic Example
 
@@ -51,6 +51,7 @@ class Main extends Component {
 
 render(<Main />, document.getElementById('root'));
 ```
+___
 
 ### Example with [animate.css](https://daneden.github.io/animate.css/)
 
@@ -102,7 +103,7 @@ export default class Main extends Component {
 render(<Main />, document.getElementById('root'));
 ```
 
-## API
+## 📚 API
 
 ### Props
 
@@ -118,6 +119,9 @@ render(<Main />, document.getElementById('root'));
 |exitAnimDelay|string|`undefined`| | css `animation-delay` value for the disappearing animation |
 |exitAnimDuration|string|`undefined`| | css `animation-duration` value for the disappearing animation |
 
-
-
 ---
+
+## 👋🏼 Say Hi! 
+Leave a ⭐ if you find this package useful 👍🏼,
+
+don't forget to let me know in [Twitter](https://twitter.com/srvrksh)  
