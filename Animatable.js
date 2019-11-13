@@ -12,7 +12,7 @@ export default class Animatable extends PureComponent {
         animationProperties: {}
     }
 
-    allocateAnimationClasses = (classesInp, action = "ADD") => {
+    allocateAnimationClasses(classesInp, action = "ADD") {
         const targetElem = this.wrapperRef.current;
 
         switch (action) {
@@ -74,13 +74,13 @@ export default class Animatable extends PureComponent {
         
     }
 
-    handleEntryAnimationEnd = () => {
+    handleEntryAnimationEnd() {
         this.wrapperRef.current.removeEventListener('animationend', this.handleEntryAnimationEnd);
 
         if(this.props.onEntryAnimationEnd) this.props.onEntryAnimationEnd();
     }
 
-    handleExitAnimationEnd = () => {
+    handleExitAnimationEnd() {
         this.wrapperRef.current.removeEventListener('animationend', this.handleExitAnimationEnd);
         this.setState({show: false});
         
