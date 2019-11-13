@@ -1,6 +1,6 @@
 {
   "name": "react-easy-animate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "animate react component using css classes with ease",
   "main": "build/index.js",
   "peerDependencies": {
