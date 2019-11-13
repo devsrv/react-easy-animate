@@ -11,12 +11,19 @@
     "url": "git+https://github.com/devsrv/react-easy-animate.git"
   },
   "keywords": [
-    "react", "react animation", "react css animation"
+    "react",
+    "react animation",
+    "react css animation"
   ],
   "author": "Sourav Rakshit",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/devsrv/react-easy-animate/issues"
   },
-  "homepage": "https://github.com/devsrv/react-easy-animate#readme"
+  "homepage": "https://github.com/devsrv/react-easy-animate#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
 }
