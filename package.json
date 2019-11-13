@@ -2,7 +2,7 @@
   "name": "react-easy-animate",
   "version": "1.0.0",
   "description": "animate react component using css classes with ease",
-  "main": "index.js",
+  "main": "Animatable.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
