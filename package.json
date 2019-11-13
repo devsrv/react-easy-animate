@@ -1,0 +1,22 @@
+{
+  "name": "react-easy-animate",
+  "version": "1.0.0",
+  "description": "animate react component using css classes with ease",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsrv/react-easy-animate.git"
+  },
+  "keywords": [
+    "react", "react animation", "react css animation"
+  ],
+  "author": "Sourav Rakshit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devsrv/react-easy-animate/issues"
+  },
+  "homepage": "https://github.com/devsrv/react-easy-animate#readme"
+}
