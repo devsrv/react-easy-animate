@@ -6,7 +6,7 @@
 [![license](https://img.shields.io/npm/l/react-easy-animate)](https://github.com/devsrv/react-easy-animate/blob/master/LICENSE)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/react-easy-animate?color=brightgreen)
 
-### Check the interactive example: <a href="#">http://devsrv.github.io/react-easy-animate/</a>
+### Check the interactive example: <a href="https://devsrv.github.io/react-easy-animate-example/">https://devsrv.github.io/react-easy-animate-example/</a>
 
 ## 📋 Features
 
