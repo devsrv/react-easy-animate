@@ -1,6 +1,6 @@
 {
   "name": "react-easy-animate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "animate react component using css classes with ease",
   "main": "Animatable.js",
   "scripts": {
