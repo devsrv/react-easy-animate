@@ -1,5 +1,5 @@
 # react-easy-animate
-> A micro react higher-order component that lets you manage entry and exit animation of your react components using css classes with ease
+> A micro react component that lets you manage entry and exit animation of your react components using css classes with ease
 
 [![npm version](https://img.shields.io/npm/v/react-easy-animate.svg)](https://www.npmjs.com/package/react-easy-animate)
 [![npm downloads](https://img.shields.io/npm/dm/react-easy-animate.svg)](https://www.npmjs.com/package/react-easy-animate)
